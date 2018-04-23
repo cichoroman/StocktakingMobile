@@ -1,0 +1,14 @@
+[0] Jeżeli inwentaryzacja jest aktywna (inwentaryzacja w bazie jest na true)
+Liczący może:
+[1] widzieć liste produktów
+[2] dodać/odjąć :
+    [2a] pojedynczą sztuke 
+    [2b] dowolną liczbe wybraną z klawiatury (również zmienno przecinkową)
+[3] oznaczyć/odznaczyć produkt jeko gotowy (checkbox)
+[4] oznaczyć że zakończył proces zliczania
+
+------------------------
+3. zmiana gotowości w bazie na true lub (odznaczenie) na false
+4. zmiana policzone na true
+0. przez desktop została właczona inwentaryzacja 
+    

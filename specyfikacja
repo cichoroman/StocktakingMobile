@@ -1,0 +1,42 @@
+Spis Treści
+1.	Cele systemu
+2.	Użytkownicy systemu
+3.	Funkcje
+3.1	Funkcje aplikacji desktopowej
+3.2	Funkcje bazy
+3.3	Funkcje aplikacji mobilnej
+4.	Wymagania techniczne
+
+1. Cele Systemu
+Celem projektowanego systemu (dalej: Stocktaking) jest gromadzenie informacji o stanie magazynowym poprzez aplikacji mobilnej
+oraz przekazanie zebranych danych do aplikacji desktopowej. W celu pobrania danych w formie pliku tekstowego.
+2.Użytkownicy systemu.
+Grupy użytkowników:
+Menadżerowie (dalej: Nadzorujący) - Osoby zlecające proces zliczania stanu magazynowego (dalej: produktów, zapasów).
+Są uprawnieni do używania aplikacji desktopowej do której wprowadzają listę produktów oraz rozpoczynają proces inwentaryzacji i finalnie po zakończeniu procesu zliczania produktów otrzymują plik z faktycznym stanem magazynowym.
+	Pracownicy (dalej: Liczący) - Osoby zliczające produkty w magazynie przy użyciu aplikacji mobilnej zawierającej listę uwcześnię wysłaną przez nadzorującego. Ich zadaniem jest zapisanie w aplikacji faktycznego stanu magazynowego. 
+3.1 Funkcje aplikacji desktopowej
+•	Pobieranie danych z pliku tekstowego.
+•	Rozpoczęcie procesu inwentaryzacji i przesłanie zaciągniętych danych do bazy.
+•	Zakończenie inwentaryzacji.
+•	Pobranie z bazy finalnych danych i zapis ich do pliku tekstowego.
+	
+ 
+3.2 Funkcje bazy
+•	Pośredniczenie pomiędzy aplikacją desktopową a aplikacją mobilną.
+•	Przechowywanie informacji o tym czy inwentaryzajca jest aktywna.(Przez Nadzorującego)
+•	Przechowywanie informacji o tym ,że proces zliczania jest zakończony.(Przez Liczącego)
+•	Zapisuje informacje o ilości produktów w czasie rzeczywistym.
+3.3 Funkcje aplikacji mobilnej
+Pobranie danych z bazy i reprezentacja ich w takiej postaci listy, każdy rekord zawiera:
+	nazwę,
+ jednostkę,
+	ilość,
+	guzik zwiększający ilość o 1,
+	guzik zmniejsza ilość o 1,
+	pole do wpisywania przez Liczącego wybranej liczby o którą zmienia ilość (liczba zmiennoprzecinkowa)
+Wysyłanie informacji o zakończeniu procesu zliczania.	
+5.	Wymagania techniczne
+	Dostęp do sieci bezprzewodowej. 
+	Smartofon z Androidem 4.0 (lub wyższe wersje)
+	Komputer osobisty z dowolnym systemem operacyjnym z zainstalowanym JRE 8.

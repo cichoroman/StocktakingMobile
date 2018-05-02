@@ -18,6 +18,7 @@ Są uprawnieni do używania aplikacji desktopowej do której wprowadzają listę
 3.1 Funkcje aplikacji desktopowej
 •	Pobieranie danych z pliku tekstowego.
 •	Rozpoczęcie procesu inwentaryzacji i przesłanie zaciągniętych danych do bazy.
+•	Wyświetlenie info o zakończeniu procesu zliczania.
 •	Zakończenie inwentaryzacji.
 •	Pobranie z bazy finalnych danych i zapis ich do pliku tekstowego.
 	

@@ -8,7 +8,9 @@ Liczący może:
 [4] oznaczyć że zakończył proces zliczania
 
 ------------------------
+Powiązania powyższych punktów z innymi modułami systemu :
+0. przez desktop została właczona inwentaryzacja 
 3. zmiana gotowości w bazie na true lub (odznaczenie) na false
 4. zmiana policzone na true
-0. przez desktop została właczona inwentaryzacja 
+
     

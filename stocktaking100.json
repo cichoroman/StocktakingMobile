@@ -1,0 +1,602 @@
+{
+  "prodkut1": {
+    "gotowosc": true,
+    "ilosc": 17,
+    "jednostka": "Kilogramy",
+    "kodID": 123
+  },
+  "produkt2": {
+    "gotowosc": false,
+    "ilosc": 5,
+    "jednostka": "Gramy",
+    "kodID": 124
+  },
+  "produkt3": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Sztuki",
+    "kodID": 125
+  },
+  "produkt4": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 126
+  },
+  "produkt5": {
+    "gotowosc": false,
+    "ilosc": 125,
+    "jednostka": "Sztuki",
+    "kodID": 127
+  },
+  "produkt6": {
+    "gotowosc": false,
+    "ilosc": 8,
+    "jednostka": "Sztuki",
+    "kodID": 128
+  },
+  "produkt7": {
+    "gotowosc": false,
+    "ilosc": 13,
+    "jednostka": "Kilogramy",
+    "kodID": 129
+  },
+  "produkt8": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 130
+  },
+  "produkt9": {
+    "gotowosc": false,
+    "ilosc": 141,
+    "jednostka": "Gramy",
+    "kodID": 131
+  },
+  "produkt10": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Opk.",
+    "kodID": 132
+  },
+  "produkt11": {
+    "gotowosc": false,
+    "ilosc": 7,
+    "jednostka": "Sztuki",
+    "kodID": 133
+  },
+  "produkt12": {
+    "gotowosc": false,
+    "ilosc": 50,
+    "jednostka": "Opk.",
+    "kodID": 134
+  },
+  "produkt13": {
+    "gotowosc": false,
+    "ilosc": 67,
+    "jednostka": "Gramy",
+    "kodID": 135
+  },
+  "produkt14": {
+    "gotowosc": false,
+    "ilosc": 21,
+    "jednostka": "Gramy",
+    "kodID": 136
+  },
+  "produkt15": {
+    "gotowosc": false,
+    "ilosc": 9,
+    "jednostka": "E-Pal.",
+    "kodID": 137
+  },
+  "produkt16": {
+    "gotowosc": false,
+    "ilosc": 2,
+    "jednostka": "Gramy",
+    "kodID": 138
+  },
+  "produkt17": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "E-Pal.",
+    "kodID": 139
+  },
+  "produkt18": {
+    "gotowosc": false,
+    "ilosc": 9,
+    "jednostka": "Gramy",
+    "kodID": 140
+  },
+  "produkt19": {
+    "gotowosc": false,
+    "ilosc": 9,
+    "jednostka": "Gramy",
+    "kodID": 141
+  },
+  "produkt20": {
+    "gotowosc": false,
+    "ilosc": 6,
+    "jednostka": "Gramy",
+    "kodID": 142
+  },
+  "prodkut21": {
+    "gotowosc": true,
+    "ilosc": 17,
+    "jednostka": "Kilogramy",
+    "kodID": 123
+  },
+  "produkt22": {
+    "gotowosc": false,
+    "ilosc": 5,
+    "jednostka": "Gramy",
+    "kodID": 124
+  },
+  "produkt23": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Sztuki",
+    "kodID": 125
+  },
+  "produkt24": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 126
+  },
+  "produkt25": {
+    "gotowosc": false,
+    "ilosc": 125,
+    "jednostka": "Sztuki",
+    "kodID": 127
+  },
+  "produkt26": {
+    "gotowosc": false,
+    "ilosc": 8,
+    "jednostka": "Sztuki",
+    "kodID": 128
+  },
+  "produkt27": {
+    "gotowosc": false,
+    "ilosc": 13,
+    "jednostka": "Kilogramy",
+    "kodID": 129
+  },
+  "produkt28": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 130
+  },
+  "produkt29": {
+    "gotowosc": false,
+    "ilosc": 141,
+    "jednostka": "Gramy",
+    "kodID": 131
+  },
+  "produkt30": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Opk.",
+    "kodID": 132
+  },
+  "produkt31": {
+    "gotowosc": false,
+    "ilosc": 7,
+    "jednostka": "Sztuki",
+    "kodID": 133
+  },
+  "produkt32": {
+    "gotowosc": false,
+    "ilosc": 50,
+    "jednostka": "Opk.",
+    "kodID": 134
+  },
+  "produkt33": {
+    "gotowosc": false,
+    "ilosc": 67,
+    "jednostka": "Gramy",
+    "kodID": 135
+  },
+  "produkt34": {
+    "gotowosc": false,
+    "ilosc": 21,
+    "jednostka": "Gramy",
+    "kodID": 136
+  },
+  "produkt35": {
+    "gotowosc": false,
+    "ilosc": 9,
+    "jednostka": "E-Pal.",
+    "kodID": 137
+  },
+  "produkt36": {
+    "gotowosc": false,
+    "ilosc": 2,
+    "jednostka": "Gramy",
+    "kodID": 138
+  },
+  "produkt37": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "E-Pal.",
+    "kodID": 139
+  },
+  "produkt38": {
+    "gotowosc": false,
+    "ilosc": 9,
+    "jednostka": "Gramy",
+    "kodID": 140
+  },
+  "produkt39": {
+    "gotowosc": false,
+    "ilosc": 9,
+    "jednostka": "Gramy",
+    "kodID": 141
+  },
+  "produkt40": {
+    "gotowosc": false,
+    "ilosc": 6,
+    "jednostka": "Gramy",
+    "kodID": 142
+  },
+  "prodkut41": {
+    "gotowosc": true,
+    "ilosc": 17,
+    "jednostka": "Kilogramy",
+    "kodID": 123
+  },
+  "produkt42": {
+    "gotowosc": false,
+    "ilosc": 5,
+    "jednostka": "Gramy",
+    "kodID": 124
+  },
+  "produkt43": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Sztuki",
+    "kodID": 125
+  },
+  "produkt44": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 126
+  },
+  "produkt45": {
+    "gotowosc": false,
+    "ilosc": 125,
+    "jednostka": "Sztuki",
+    "kodID": 127
+  },
+  "produkt46": {
+    "gotowosc": false,
+    "ilosc": 8,
+    "jednostka": "Sztuki",
+    "kodID": 128
+  },
+  "produkt47": {
+    "gotowosc": false,
+    "ilosc": 13,
+    "jednostka": "Kilogramy",
+    "kodID": 129
+  },
+  "produkt48": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 130
+  },
+  "produkt49": {
+    "gotowosc": false,
+    "ilosc": 141,
+    "jednostka": "Gramy",
+    "kodID": 131
+  },
+  "produkt50": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Opk.",
+    "kodID": 132
+  },
+  "prodkut51": {
+    "gotowosc": true,
+    "ilosc": 17,
+    "jednostka": "Kilogramy",
+    "kodID": 123
+  },
+  "produkt52": {
+    "gotowosc": false,
+    "ilosc": 5,
+    "jednostka": "Gramy",
+    "kodID": 124
+  },
+  "produkt53": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Sztuki",
+    "kodID": 125
+  },
+  "produkt54": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 126
+  },
+  "produkt55": {
+    "gotowosc": false,
+    "ilosc": 125,
+    "jednostka": "Sztuki",
+    "kodID": 127
+  },
+  "produkt56": {
+    "gotowosc": false,
+    "ilosc": 8,
+    "jednostka": "Sztuki",
+    "kodID": 128
+  },
+  "produkt57": {
+    "gotowosc": false,
+    "ilosc": 13,
+    "jednostka": "Kilogramy",
+    "kodID": 129
+  },
+  "produkt58": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 130
+  },
+  "produkt59": {
+    "gotowosc": false,
+    "ilosc": 141,
+    "jednostka": "Gramy",
+    "kodID": 131
+  },
+  "produkt60": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Opk.",
+    "kodID": 132
+  },
+  "prodkut61": {
+    "gotowosc": true,
+    "ilosc": 17,
+    "jednostka": "Kilogramy",
+    "kodID": 123
+  },
+  "produkt62": {
+    "gotowosc": false,
+    "ilosc": 5,
+    "jednostka": "Gramy",
+    "kodID": 124
+  },
+  "produkt63": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Sztuki",
+    "kodID": 125
+  },
+  "produkt64": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 126
+  },
+  "produkt65": {
+    "gotowosc": false,
+    "ilosc": 125,
+    "jednostka": "Sztuki",
+    "kodID": 127
+  },
+  "produkt66": {
+    "gotowosc": false,
+    "ilosc": 8,
+    "jednostka": "Sztuki",
+    "kodID": 128
+  },
+  "produkt67": {
+    "gotowosc": false,
+    "ilosc": 13,
+    "jednostka": "Kilogramy",
+    "kodID": 129
+  },
+  "produkt68": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 130
+  },
+  "produkt69": {
+    "gotowosc": false,
+    "ilosc": 141,
+    "jednostka": "Gramy",
+    "kodID": 131
+  },
+  "produkt70": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Opk.",
+    "kodID": 132
+  },
+  "prodkut71": {
+    "gotowosc": true,
+    "ilosc": 17,
+    "jednostka": "Kilogramy",
+    "kodID": 123
+  },
+  "produkt72": {
+    "gotowosc": false,
+    "ilosc": 5,
+    "jednostka": "Gramy",
+    "kodID": 124
+  },
+  "produkt73": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Sztuki",
+    "kodID": 125
+  },
+  "produkt74": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 126
+  },
+  "produkt75": {
+    "gotowosc": false,
+    "ilosc": 125,
+    "jednostka": "Sztuki",
+    "kodID": 127
+  },
+  "produkt76": {
+    "gotowosc": false,
+    "ilosc": 8,
+    "jednostka": "Sztuki",
+    "kodID": 128
+  },
+  "produkt77": {
+    "gotowosc": false,
+    "ilosc": 13,
+    "jednostka": "Kilogramy",
+    "kodID": 129
+  },
+  "produkt78": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 130
+  },
+  "produkt79": {
+    "gotowosc": false,
+    "ilosc": 141,
+    "jednostka": "Gramy",
+    "kodID": 131
+  },
+  "produkt80": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Opk.",
+    "kodID": 132
+  },
+  "prodkut81": {
+    "gotowosc": true,
+    "ilosc": 17,
+    "jednostka": "Kilogramy",
+    "kodID": 123
+  },
+  "produkt82": {
+    "gotowosc": false,
+    "ilosc": 5,
+    "jednostka": "Gramy",
+    "kodID": 124
+  },
+  "produkt83": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Sztuki",
+    "kodID": 125
+  },
+  "produkt84": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 126
+  },
+  "produkt85": {
+    "gotowosc": false,
+    "ilosc": 125,
+    "jednostka": "Sztuki",
+    "kodID": 127
+  },
+  "produkt86": {
+    "gotowosc": false,
+    "ilosc": 8,
+    "jednostka": "Sztuki",
+    "kodID": 128
+  },
+  "produkt87": {
+    "gotowosc": false,
+    "ilosc": 13,
+    "jednostka": "Kilogramy",
+    "kodID": 129
+  },
+  "produkt88": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 130
+  },
+  "produkt89": {
+    "gotowosc": false,
+    "ilosc": 141,
+    "jednostka": "Gramy",
+    "kodID": 131
+  },
+  "produkt90": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Opk.",
+    "kodID": 132
+  },
+  "prodkut91": {
+    "gotowosc": true,
+    "ilosc": 17,
+    "jednostka": "Kilogramy",
+    "kodID": 123
+  },
+  "produkt92": {
+    "gotowosc": false,
+    "ilosc": 5,
+    "jednostka": "Gramy",
+    "kodID": 124
+  },
+  "produkt93": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Sztuki",
+    "kodID": 125
+  },
+  "produkt94": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 126
+  },
+  "produkt95": {
+    "gotowosc": false,
+    "ilosc": 125,
+    "jednostka": "Sztuki",
+    "kodID": 127
+  },
+  "produkt96": {
+    "gotowosc": false,
+    "ilosc": 8,
+    "jednostka": "Sztuki",
+    "kodID": 128
+  },
+  "produkt97": {
+    "gotowosc": false,
+    "ilosc": 13,
+    "jednostka": "Kilogramy",
+    "kodID": 129
+  },
+  "produkt98": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 130
+  },
+  "produkt99": {
+    "gotowosc": false,
+    "ilosc": 141,
+    "jednostka": "Gramy",
+    "kodID": 131
+  },
+  "produkt100": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Opk.",
+    "kodID": 132
+  }
+}

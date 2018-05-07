@@ -1,0 +1,122 @@
+{
+  "prodkut1": {
+    "gotowosc": true,
+    "ilosc": 17,
+    "jednostka": "Kilogramy",
+    "kodID": 123
+  },
+  "produkt2": {
+    "gotowosc": false,
+    "ilosc": 5,
+    "jednostka": "Gramy",
+    "kodID": 124
+  },
+  "produkt3": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Sztuki",
+    "kodID": 125
+  },
+  "produkt4": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 126
+  },
+  "produkt5": {
+    "gotowosc": false,
+    "ilosc": 125,
+    "jednostka": "Sztuki",
+    "kodID": 127
+  },
+  "produkt6": {
+    "gotowosc": false,
+    "ilosc": 8,
+    "jednostka": "Sztuki",
+    "kodID": 128
+  },
+  "produkt7": {
+    "gotowosc": false,
+    "ilosc": 13,
+    "jednostka": "Kilogramy",
+    "kodID": 129
+  },
+  "produkt8": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "Opk.",
+    "kodID": 130
+  },
+  "produkt9": {
+    "gotowosc": false,
+    "ilosc": 141,
+    "jednostka": "Gramy",
+    "kodID": 131
+  },
+  "produkt10": {
+    "gotowosc": false,
+    "ilosc": 1,
+    "jednostka": "Opk.",
+    "kodID": 132
+  },
+  "produkt11": {
+    "gotowosc": false,
+    "ilosc": 7,
+    "jednostka": "Sztuki",
+    "kodID": 133
+  },
+  "produkt12": {
+    "gotowosc": false,
+    "ilosc": 50,
+    "jednostka": "Opk.",
+    "kodID": 134
+  },
+  "produkt13": {
+    "gotowosc": false,
+    "ilosc": 67,
+    "jednostka": "Gramy",
+    "kodID": 135
+  },
+  "produkt14": {
+    "gotowosc": false,
+    "ilosc": 21,
+    "jednostka": "Gramy",
+    "kodID": 136
+  },
+  "produkt15": {
+    "gotowosc": false,
+    "ilosc": 9,
+    "jednostka": "E-Pal.",
+    "kodID": 137
+  },
+  "produkt16": {
+    "gotowosc": false,
+    "ilosc": 2,
+    "jednostka": "Gramy",
+    "kodID": 138
+  },
+  "produkt17": {
+    "gotowosc": false,
+    "ilosc": 0,
+    "jednostka": "E-Pal.",
+    "kodID": 139
+  },
+  "produkt18": {
+    "gotowosc": false,
+    "ilosc": 9,
+    "jednostka": "Gramy",
+    "kodID": 140
+  },
+  "produkt19": {
+    "gotowosc": false,
+    "ilosc": 9,
+    "jednostka": "Gramy",
+    "kodID": 141
+  },
+  "produkt20": {
+    "gotowosc": false,
+    "ilosc": 6,
+    "jednostka": "Gramy",
+    "kodID": 142
+  }
+}

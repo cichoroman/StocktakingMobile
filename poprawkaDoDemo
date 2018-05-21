@@ -1,0 +1,41 @@
+
+	void GetAction() throws UnsupportedEncodingException, FirebaseException {
+		String jsonString = firebase.get("Produkty").getRawBody();
+  
+     List<String> lista = new ArrayList<String>();
+    
+        String wZero="\\{\"";
+        String wOne="\":\\{\"gotowosc\":\"";
+        String wTwo="\",\"ilosc\":\"";
+        String wThree = "\",\"jednostka\":\"";
+        String wFour = "\",\"kodID\":\"";
+        String wFive  = "\"\\},\"";
+        String wSix = "\"}}";
+        String list="";
+           String jsonText = "{\"nazwa produktu\":{\"gotowosc\":\"gotowo??\",\"ilosc\":\"ilo??\",\"jednostka\":\"jednostka\",\"kodID\":\"kod ID\"},\"produkt1\":{\"gotowosc\":\"false\",\"ilosc\":\"11\",\"jednostka\":\"szt\",\"kodID\":\"1\"},\"produkt2\":{\"gotowosc\":\"false\",\"ilosc\":\"21\",\"jednostka\":\"g\",\"kodID\":\"2\"},\"produkt3\":{\"gotowosc\":\"false\",\"ilosc\":\"31\",\"jednostka\":\"kg\",\"kodID\":\"3\"},\"produkt4\":{\"gotowosc\":\"false\",\"ilosc\":\"69\",\"jednostka\":\"kg\",\"kodID\":\"4\"},\"produkt5\":{\"gotowosc\":\"false\",\"ilosc\":\"69\",\"jednostka\":\"kg\",\"kodID\":\"5\"}}";
+     
+           String[] nowyjson= jsonString.split(""+wZero+"|"+wOne+"|"+wTwo+"|"+wThree+"|"+wFour+"|"+wFive+"|"+wSix+"");
+        
+        
+                    for(int x=0; x<nowyjson.length;x++)
+                    {
+                      
+                      if(x%5==0){
+                         lista.add(""+nowyjson[x]+"\n");
+                      }else{
+                           lista.add(nowyjson[x]);
+                      }
+    
+                    }
+
+            lista.remove("");
+         
+            list=lista.toString();
+            
+
+
+		try (PrintStream out = new PrintStream(new FileOutputStream(fileName+".txt"))) {
+			out.print(list);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
